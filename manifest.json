@@ -1,0 +1,22 @@
+{
+  "dir": "ltr",
+  "lang": "en-US",
+  "name": "PWA Demo",
+  "description": "Just a Demo",
+  "scope": "/",
+  "display": "minimal-ui",
+  "start_url": "/",
+  "theme_color": "#27831B",
+  "background_color": "#fffcf4",
+  "icons": [{
+      "src": "/i/logo.webp",
+      "type": "image/webp",
+      "sizes": "800x600"
+    },
+    {
+      "src": "/i/logo.png",
+      "type": "image/png",
+      "sizes": "800x600"
+    }
+  ]
+}
