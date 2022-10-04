@@ -1,0 +1,23 @@
+{
+  "name": "getting-started-with-pwas-workshop",
+  "version": "2.0.0",
+  "description": "Workshop files",
+  "main": "index.html",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarongustafson/pwa-summit-workshop.git"
+  },
+  "author": "Aaron Gustafson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aarongustafson/pwa-summit-workshop/issues"
+  },
+  "homepage": "https://github.com/aarongustafson/pwa-summit-workshop#readme"
+}
